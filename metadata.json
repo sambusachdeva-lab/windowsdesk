@@ -1,0 +1,6 @@
+{
+  "name": "Windows Support Center",
+  "description": "Official Windows support portal featuring interactive troubleshooting, error code lookup, hardware diagnostics, driver downloads, and live technical assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
